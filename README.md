@@ -8,6 +8,9 @@ This project focuses on analyzing pizza sales data using Power BI to extract bus
 - Excel / CSV
 - DAX
 
+## 📸 Dashboard Preview
+![Dashboard](overview.png)
+
 ## 📈 Key Insights
 - Revenue and profit trends over time
 - Top-performing pizzas and branches
